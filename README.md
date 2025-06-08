@@ -11,4 +11,4 @@ This project is a visually engaging **parallax scrolling webpage** built using H
 - Clean, semantic HTML and optimized CSS
 - Mobile-friendly (basic responsiveness)
 
-## 📁 Project Structure
+## 🖼️ Host
