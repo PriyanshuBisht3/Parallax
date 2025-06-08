@@ -12,3 +12,5 @@ This project is a visually engaging **parallax scrolling webpage** built using H
 - Mobile-friendly (basic responsiveness)
 
 ## 🖼️ Host
+
+https://priyanshubisht3.github.io/Parallax/
